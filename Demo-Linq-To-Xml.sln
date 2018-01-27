@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-CreateXmlDocument", "01-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-CreateXmlDocument", "02-CreateXmlDocument\02-CreateXmlDocument.csproj", "{979FE145-E516-4377-80AA-4AD6FFE78B0A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-QueryXmlDocument", "03-QueryXmlDocument\03-QueryXmlDocument.csproj", "{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{979FE145-E516-4377-80AA-4AD6FFE78B0A}.Release|x64.Build.0 = Release|Any CPU
 		{979FE145-E516-4377-80AA-4AD6FFE78B0A}.Release|x86.ActiveCfg = Release|Any CPU
 		{979FE145-E516-4377-80AA-4AD6FFE78B0A}.Release|x86.Build.0 = Release|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Debug|x64.Build.0 = Debug|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Debug|x86.Build.0 = Debug|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Release|x64.ActiveCfg = Release|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Release|x64.Build.0 = Release|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7D6ED00-84BF-46A5-AFBD-9517E0BDF4DB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
